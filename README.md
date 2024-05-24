@@ -1,16 +1,13 @@
-## Hi there 👋
+bem vindo ao meu perfil 🏀🕷️
+meu nome é Henrique 
 
-<!--
-**HmdsmJC/HmdsmJC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante da escola EE PEI JOÄO CLIMACO DE CAMARGO PIRES,
+Utilizamos como ferramenta nas aulas de robótica os cursos do [Alura](https://www.alura.com.br)
+Estou desenvolvendo linguagem JAVASCRIPT
+Utilizo este espaço para organização e compartilhamento dos meus projetos 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Para entrar em contato comigo
+0000110662113xsp@al.educacao.sp.sp.gov.br
+
+![](https://media1.tenor.com/m/23-RsSnOUyIAAAAC/spiderman-dance.gif)
